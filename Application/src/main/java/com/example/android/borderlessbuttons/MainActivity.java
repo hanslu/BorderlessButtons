@@ -42,6 +42,10 @@ public class MainActivity extends ListActivity {
     private static final Uri DOCS_URI = Uri.parse(
             "http://developer.android.com/design/building-blocks/buttons.html#borderless");
 
+    // rebase test
+
+    
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.sample_main);
