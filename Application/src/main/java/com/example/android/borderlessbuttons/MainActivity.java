@@ -17,6 +17,7 @@
 package com.example.android.borderlessbuttons;
 
 //test
+// Comment by David Wu.
 
 import android.app.ListActivity;
 import android.content.ActivityNotFoundException;
